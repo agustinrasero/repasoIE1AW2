@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "dev": "nodemon servidor.mjs funciones.mjs"
+
+  }
+
+}
